@@ -1,3 +1,5 @@
-# MultiClicky
+# Clicky
 
-### I click. You click. We all click.Muliplayer version of clicky
+### I click. You click. We all click.
+
+Clicky is a web game to help train clicking accuracy.
